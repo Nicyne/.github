@@ -11,7 +11,7 @@ We are a duo from Germany that loves programming. Our projects are developed in 
 ### Frontend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,react,next&perline=8" />
 </a>
 
 ---
